@@ -8,7 +8,7 @@
 
 
 <h4 align="center">
-6+ years experienced java development professional with a prolific track record of designing, testing, and monitoring software as well as upgrading the existing programs. Adept at planning & executing deployment of system features, orchestrating the integration, and maintaining the system throughout its lifecycle. Proficient in interacting with the key clients, understanding their requirements to complete projects within stipulated time & budget, and ensuring optimum client satisfaction.
+I am an avid open source developer. And I have a deep understanding of many algorithmic topics. And I like to be creative and innovative and have very good implementation knowledge of OOP and AOP concepts and collection frameworks I have more than 7 years of experience in Java
 </h4>
 <br>
 <!--<div align="center">
