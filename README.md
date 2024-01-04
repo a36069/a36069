@@ -8,7 +8,9 @@
 
 
 <h4 align="center">
-I am an avid open source developer. And I have a deep understanding of many algorithmic topics. And I like to be creative and innovative and have very good implementation knowledge of OOP and AOP concepts and collection frameworks I have more than 7 years of experience in Java
+
+As an experienced Java developer, I specialize in building scalable, high-performance applications. My strong understanding of software design patterns, data structures, and algorithms enables me to produce efficient solutions. In addition to my technical skills, I have experience working with DevOps tools and practices, including continuous integration and deployment, containerization, and infrastructure automation. This allows me to deliver software that is not only high-quality and performant, but also easily deployable and scalable.As an experienced Java developer, I specialize in building scalable, high-performance applications. My strong understanding of software design patterns, data structures, and algorithms enables me to produce efficient solutions. In addition to my technical skills, I have experience working with DevOps tools and practices, including continuous integration and deployment, containerization, and infrastructure automation. This allows me to deliver software that is not only high-quality and performant, but also easily deployable and scalable.
+
 </h4>
 <br>
 <!--<div align="center">
